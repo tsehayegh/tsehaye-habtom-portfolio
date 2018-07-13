@@ -1,7 +1,12 @@
 //Toggle classes for responsiveness
 function toggleResponsiveClass() {
-  	$('#myTopnav').toggleClass('responsive');
+
+		$('#myTopnav').toggleClass('responsive');
+
+  	
 }
+
+
 
 //display bio;
 function displayBio(){

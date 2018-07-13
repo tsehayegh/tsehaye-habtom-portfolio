@@ -142,10 +142,18 @@ i {
   display: inline-block;
   width: 100%;
   text-align: center;
-  margin: 0 auto ;
+  margin: 40px auto ;
 }
+
 .tech-icons a{
   text-decoration: none;
+  margin: 0 auto ;
+}
+
+.experience p{
+  margin: 5px;
+  font-size: 18px;
+  text-align: left;
 }
 
 footer {
